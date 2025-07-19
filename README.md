@@ -10,12 +10,12 @@
   
 <body>
   <header>
-    <h1>Milan Pal</h1>
-    <p>iOS Developer | Swift | SwiftUI | UIKit </p>
+    <h2> iOS | Swift | SwiftUI | UIKit</h2>
     <nav>
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
       <a href="#skills">Skills</a>
+      <a href="#education">Education</a>
       <a href="#contact">Contact</a>
     </nav>
   </header>
