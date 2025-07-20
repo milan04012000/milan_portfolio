@@ -31,6 +31,7 @@ Focused on delivering seamless user experiences through intuitive UI/UX design a
     <h2>Projects</h2>
     <div class="project">
       <h3><a href="https://apps.apple.com/in/app/bidjobbers/id1516990887">BidJobbers</a></h3>
+            <img width="1051" height="574" alt="Screenshot 2025-07-20 at 4 37 24 PM" src="https://github.com/user-attachments/assets/b525c33c-ca00-4d2a-9c16-339b47c6a8cd" />
      <p><strong>Overview:</strong><br>
 BidJobbers is a feature-rich, scalable on-demand service booking platform developed using Swift, UIKit, and Firebase. Designed to connect service providers with customers in real-time, the app simplifies job posting, bidding, and service fulfillment in a seamless mobile environment.</p>
 
@@ -47,6 +48,7 @@ BidJobbers is a feature-rich, scalable on-demand service booking platform develo
     </div>
     <div class="project">
       <h3><a href="https://apps.apple.com/in/app/bidjobbers-pro/id1516991289">BidJobbers Pro</a></h3>
+      <img width="1029" height="581" alt="Screenshot 2025-07-20 at 4 50 56 PM" src="https://github.com/user-attachments/assets/1e283888-82f2-4107-bd07-6f647fd4dc77" />
       <p><strong>Overview:</strong><br>
 BidJobbers Pro is the administrative companion app to BidJobbers, tailored specifically for service providers. This application enables professionals to manage service listings, respond to bids, track job progress, and handle customer communications efficiently—all from a centralized, mobile-first interface.</p>
 
@@ -61,6 +63,7 @@ BidJobbers Pro is the administrative companion app to BidJobbers, tailored speci
     </div>
     <div class="project">
       <h3><a href="https://apps.apple.com/us/app/student-self-service/id6499200823">Student Self Service</a></h3>
+      <img width="1043" height="573" alt="Screenshot 2025-07-20 at 4 51 16 PM" src="https://github.com/user-attachments/assets/cda85651-dd5a-4229-a2d1-a8d6275cba0f" />
 <p><strong>Overview:</strong><br>
 Student Self Service is a comprehensive academic management application designed to streamline campus-related tasks for students. Built with a focus on usability and performance, the app provides quick access to vital academic and financial data.</p>
 
@@ -73,6 +76,7 @@ Student Self Service is a comprehensive academic management application designed
 </ul>    </div>
     <div class="project">
       <h3><a href="https://apps.apple.com/in/app/desi-eats/id1626964947">Desi Eats</a></h3>
+      <img width="1046" height="573" alt="Screenshot 2025-07-20 at 4 51 40 PM" src="https://github.com/user-attachments/assets/91eb31cc-fccf-4324-8e51-1087b0db6919" />
 <p><strong>Overview:</strong><br>
 Desi Eats is a feature-rich food delivery application designed to connect users with local restaurants through a seamless ordering experience. Developed with a focus on performance and usability, the app allows users to browse menus, place food orders, and track deliveries in real-time.</p>
 
@@ -86,6 +90,7 @@ Desi Eats is a feature-rich food delivery application designed to connect users 
 </ul>    </div>
     <div class="project">
       <h3><a href="https://apps.apple.com/in/app/kerala-eats/id1572846103">Kerala Eats</a></h3>
+      <img width="1032" height="565" alt="Screenshot 2025-07-20 at 4 51 53 PM" src="https://github.com/user-attachments/assets/be18f650-3a28-4adc-a5f5-93a4f2746dea" />
 <p><strong>Overview:</strong><br>
 Kerala Eats is a regional food delivery application focused on serving Kerala-based customers and restaurants. The app delivers a localized, intuitive experience where users can seamlessly browse menus, place food orders, and track deliveries in real-time.</p>
 
@@ -96,9 +101,11 @@ Kerala Eats is a regional food delivery application focused on serving Kerala-ba
   <li>📍 Real-time order tracking for live updates on deliveries</li>
   <li>💳 Secure payment options integrated into the app</li>
   <li>📲 Clean, mobile-first interface designed for simplicity and speed</li>
-</ul>    </div>
+</ul>    
+</div>
     <div class="project">
       <h3><a href="https://apps.apple.com/dk/app/bloomsward/id6482295195">Bloomsward</a></h3>
+      <img width="1035" height="574" alt="Screenshot 2025-07-20 at 4 52 07 PM" src="https://github.com/user-attachments/assets/7e4d48cc-f08e-4b77-a115-a2fa5b1830ea" />
 <p><strong>Overview:</strong><br>
 Bloomsward is a modern iOS flower delivery application crafted with SwiftUI, offering a premium user interface and experience. Designed for simplicity and elegance, it enables users to browse a curated selection of floral arrangements and place orders with ease.</p>
 
@@ -109,7 +116,27 @@ Bloomsward is a modern iOS flower delivery application crafted with SwiftUI, off
   <li>💳 Secure payment integration for a seamless checkout experience</li>
   <li>📦 Real-time order tracking and delivery updates</li>
   <li>📲 SwiftUI-based responsive design optimized for all iOS devices</li>
-</ul>    </div>
+</ul>   
+</div>
+
+<div class="project">
+  <h3><a href="https://apps.apple.com/us/app/wetroo/id6743630667">Wetroo</a></h3>
+<img width="812" height="598" alt="Screenshot 2025-07-20 at 4 58 18 PM" src="https://github.com/user-attachments/assets/25d97749-dd92-4ccf-b903-1c0e4f6127ee" />
+  <p><strong>Overview:</strong><br>
+  Wetroo is a CRM mobile application developed using WebView technology, offering a seamless bridge between a responsive web interface and native iOS functionality. Designed to simplify business communication and task management, the app includes built-in support for secure payments and streamlined user interactions.</p>
+
+  <p><strong>Key Highlights:</strong></p>
+  <ul>
+    <li>🌐 WebView-based hybrid solution for delivering cross-platform CRM features</li>
+    <li>📱 Clean and responsive UI rendered via integrated web pages</li>
+    <li>💳 Secure payment gateway implementation for in-app transactions</li>
+    <li>📬 Real-time access to tasks, leads, contacts, and communication history</li>
+    <li>🔐 Authentication and session handling via backend APIs</li>
+  </ul>   
+</div>
+
+
+
   </section>
 
   <section id="skills">
